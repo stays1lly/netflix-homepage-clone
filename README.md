@@ -1,6 +1,6 @@
 # Netflix Homepage Clone
 
-This project is a clone of the Netflix homepage, aiming to replicate the look and feel of the popular streaming service's website. The project utilizes HTML, CSS, and possibly JavaScript to recreate the layout and design elements of the Netflix homepage.
+This project is a clone of the Netflix homepage, aiming to replicate the look and feel of the popular streaming service's website. The project utilizes HTML, CSS, and JavaScript to recreate the layout and design elements of the Netflix homepage.
 
 ## Overview
 
